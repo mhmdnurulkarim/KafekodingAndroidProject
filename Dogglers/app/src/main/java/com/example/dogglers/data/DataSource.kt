@@ -1,4 +1,3 @@
-
 package com.example.dogglers.data
 
 import android.os.Parcelable

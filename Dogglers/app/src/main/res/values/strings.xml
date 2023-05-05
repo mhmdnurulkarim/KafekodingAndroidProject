@@ -15,8 +15,45 @@
   -->
 <resources>
     <string name="app_name">Dogglers</string>
+    <string name="dog_age">Age: %1$s</string>
+    <string name="dog_hobbies">Hobbies: %1$s</string>
     <string name="vertical">Vertical</string>
     <string name="horizontal">Horizontal</string>
     <string name="grid">Grid</string>
 
+    <integer-array name="Photo">
+        <item>@drawable/tzeitel</item>
+        <item>@drawable/leroy</item>
+        <item>@drawable/frankie</item>
+        <item>@drawable/nox</item>
+        <item>@drawable/faye</item>
+        <item>@drawable/bella</item>
+    </integer-array>
+
+    <string-array name="Name">
+        <item>Tzeitel</item>
+        <item>Leroy</item>
+        <item>Frankie</item>
+        <item>Nox</item>
+        <item>Faye</item>
+        <item>Bella</item>
+    </string-array>
+
+    <integer-array name="Age">
+        <item>7</item>
+        <item>4</item>
+        <item>2</item>
+        <item>8</item>
+        <item>8</item>
+        <item>14</item>
+    </integer-array>
+
+    <string-array name="Hobbies">
+        <item>sunbathing</item>
+        <item>sleeping in dangerous places</item>
+        <item>stealing socks</item>
+        <item>meeting new animals</item>
+        <item>Digging in the garden</item>
+        <item>Chasing sea foam</item>
+    </string-array>
 </resources>
